@@ -1,2 +1,1 @@
-# pax-website
-Pax Discord Bot Web Site Kodları.
+<center><font color="red">Pâyidar Was Here</font></center>
